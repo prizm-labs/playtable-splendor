@@ -1,0 +1,2 @@
+# playtable-splendor
+Unfinished table
